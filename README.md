@@ -1,0 +1,2 @@
+# yara_batch_scanner
+一个批量扫描yara规则的脚本工具
